@@ -1,0 +1,46 @@
+#navbar .logo{
+    float: none;
+    text-align: center;
+}
+#navbar ul ,#navbar ul li{
+    float: none;
+}
+#navbar ul li a{
+    border-bottom: 1px dashed #cecccc;
+    padding: 3px;
+    
+}
+/* This is for home info */
+#homeInfo{
+    height: 550px;
+}
+#homeInfo .infoImg{
+    display: none;
+}
+#homeInfo .infoContent{
+    float: none;
+    width: 100%;
+}
+
+/* This is for features section */
+
+.box{
+    float: none;
+    width: 100%;
+    
+}
+
+/* This is for about info */
+#aboutInfo .infoRight, #aboutInfo .infoLeft{
+    float: none;
+    width: 100%;
+}
+
+.lHeading{
+    text-align: center;
+}
+
+/* Contact info */
+#contactInfo .box{
+    border-bottom: 1px dashed #cecccc;
+}
